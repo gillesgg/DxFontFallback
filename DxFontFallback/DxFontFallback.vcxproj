@@ -157,6 +157,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="DirectXHelper.h" />
+    <ClInclude Include="FontFallbackConst.h" />
     <ClInclude Include="MapCharacters.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="TextAnalysisSource.h" />
